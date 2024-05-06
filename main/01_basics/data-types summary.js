@@ -42,5 +42,6 @@ console.log(typeof anotherId);
 
 types: Array, Objects, Functions
 
+// stack memory (primitive), heap memory (non primitive).
 
 
